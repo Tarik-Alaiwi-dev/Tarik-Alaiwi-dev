@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>🤝 I’m looking for an internship (Erasmus+)<br>🌱 I’m currently learning backend<br>⚡ I like various sports
+🔭 I’m currently working on my own projects<br>🤝 I’m preparing for my summer internship (Erasmus+)<br>🌱 I’m currently learning backend and ML<br>⚡ I like various sports
 
 
 # 💻 Tech Stack (most used):
