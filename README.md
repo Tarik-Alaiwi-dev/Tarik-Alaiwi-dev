@@ -12,9 +12,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tarik-Alaiwi-dev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarik-Alaiwi-dev&icon=0&color=12)](https://visitcount.itsvg.in)
 
