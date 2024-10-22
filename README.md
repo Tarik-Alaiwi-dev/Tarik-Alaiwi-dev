@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>🤝 I'm doing an internship<br>🌱 I’m currently learning backend and ML<br>
+🔭 I’m currently working on my own projects<br>🤝 I'm looking for an internship<br>🌱 I’m currently learning backend and ML<br>
 
 
 # 💻 Tech Stack:
