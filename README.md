@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own and group projects<br>🤝 I'm looking for a ML internship<br>🌱 I’m focusing on ML and backend<br>
+🔭 I’m currently working on my personal and group projects<br>🤝 I'm looking for a Data position<br>🌱 I’m focusing on ML and backend engineering<br>
 
 
 # 💻 Tech Stack:
