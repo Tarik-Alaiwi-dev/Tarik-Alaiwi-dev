@@ -1,5 +1,5 @@
-# 💫 Certificates:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7fb122a8-ff2c-48ca-b80b-9697d4770aca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+# 💫 Certifications:
+[![My Certificate](https://images.credly.com/size/150x150/images/7fb122a8-ff2c-48ca-b80b-9697d4770aca.png)](https://www.credly.com/badges/7fb122a8-ff2c-48ca-b80b-9697d4770aca)
 
 
 # 💻 Tech Stack:
