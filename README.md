@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on my personal and group projects<br>🤝 I'm looking for a Data position<br>🌱 I’m focusing on ML and backend engineering<br>
+# 💫 Certificates:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7fb122a8-ff2c-48ca-b80b-9697d4770aca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 # 💻 Tech Stack:
